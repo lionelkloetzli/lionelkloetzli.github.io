@@ -1,0 +1,26 @@
+html {
+	background-color: #edfff7;}
+
+body {
+	background-color: #f7f7f7;
+	font-family: "Open Sans", Arial, sans-serif;
+}
+
+.fa-star {
+	color: #3552c6;
+	border-color: #3552c6;
+}
+
+.fa-star-o {
+	color: #3552c6;
+	border-color: #3552c6;
+}
+
+.navbar {
+	color: #0050ac;
+}
+
+h4 {
+	color: #0050ac;
+}
+
