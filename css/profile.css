@@ -29,9 +29,12 @@ h4 {
 	color: #3552c6;
 	border-color: #3552c6;
 }
-
-.linkicon:hover {
+.description a.linkicon{
+	color: #505050 ;
+}
+.description a.linkicon:hover {
 	text-decoration: none;
+	color: #0050ac;
 }
 
 .infor {
@@ -39,9 +42,9 @@ h4 {
 }
 
 .jumbotron {
-  background-image: url("../img/background3.jpe");
+  background-image: url("../img/background2.jpe");
   background-size: cover;
-  color: white;
+  color: #202020 ;
 }
 /*
 
